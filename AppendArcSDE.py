@@ -17,7 +17,7 @@ listappend = [("fc_original1","fc_new1"),("fc_original2","fc_new2"),    #update 
 ##########################################################################
 
 file = open(status_csv,'a')
-feature_dataset = '{}\{}}'.format(ArcSDE, feature_dataset_name)
+feature_dataset = '{}\{}'.format(ArcSDE, feature_dataset_name)
 
 #Function to append new feature classes to original feature classes in ArcSDE
 def append():

@@ -10,5 +10,6 @@ This script serves to automate to append multiple datasets into existing feature
 3) Generate an output in csv showing the success/failure of append, and error messages if any
 
 ### Requirements
-ArcGIS installation and write access to an ArcSDE geodatabase
+ArcGIS installation and write access to an ArcSDE geodatabase.
+
 Shutdown meant for windows PC. ArcGIS is only available in windows anyway.

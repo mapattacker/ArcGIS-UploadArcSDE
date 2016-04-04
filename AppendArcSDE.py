@@ -12,7 +12,7 @@ feature_dataset_name = 'feature_dataset_name' #input feature dataset name in Arc
 status_csv = r'C:\Users\XXXX\Desktop\upload_status.csv'   #path to a csv output which gives status of job and error message if any
 
 listappend = [("fc_original1","fc_new1"),("fc_original2","fc_new2"),    #update feature class names of original and new ones that are to be appended into the former
-               ("fc_original3","fc_new3"),("fc_original4","fc_new4")]
+               ("fc_original3","fc_new3"),("fc_original4","fc_new4")]   #add more feature class names if necessary
 
 ##########################################################################
 
